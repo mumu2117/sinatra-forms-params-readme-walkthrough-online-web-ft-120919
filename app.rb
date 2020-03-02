@@ -11,7 +11,8 @@ class App < Sinatra::Base
   end
 
   post '/food' do
-   params.to_s 
+  
+    
   end
 
 
